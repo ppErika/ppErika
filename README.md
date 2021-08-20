@@ -10,12 +10,12 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppErika&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/ppErika/github-readme-stats)
 
 ## contact 🐯
-- Erika's Mail
+- Erika's **Mail**
     <img 
         src="https://img.shields.io/badge/Gmail-F8640C?style=flat&logo=Gmail&logoColor=white&link=mailto:hanerika11@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
         
-- Erika's Tech Blog
+- Erika's **Tech Blog**
     <a href="https://blog.naver.com/hanerika_11">
     <img 
         src="http://img.shields.io/badge/-Blog-3190D3?style=flat&logo=Storyblok&logoColor=white&link=https://blog.naver.com/hanerika_11"
