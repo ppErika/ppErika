@@ -10,7 +10,7 @@
         src="http://img.shields.io/badge/-Blog-489CD5?style=flat&logo=Storyblok&link=https://blog.naver.com/hanerika_11"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hanerika11@gmail.com)
+- [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hanerika11@gmail.com)](mailto:hanerika11@gmail.com)
 
 
 <!--
