@@ -11,7 +11,8 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hanerika11@gmail.com)](mailto:hanerika11@gmail.com)
-- 
+
+
 <!--
 **ppErika/ppErika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
