@@ -17,7 +17,7 @@
 - Erika's Tech Blog
     <a href="https://blog.naver.com/hanerika_11">
     <img 
-        src="http://img.shields.io/badge/-Blog-F8640?style=flat&logo=Storyblok&logoColor=white&link=https://blog.naver.com/hanerika_11"
+        src="http://img.shields.io/badge/-Blog-F8640C?style=flat&logo=Storyblok&logoColor=white&link=https://blog.naver.com/hanerika_11"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
