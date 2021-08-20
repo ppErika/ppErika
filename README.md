@@ -17,6 +17,8 @@
         src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:hanerika11@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
+![footer](https://capsule-render.vercel.app/api?section=footer)
+
 <!--
 **ppErika/ppErika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
