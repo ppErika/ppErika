@@ -7,16 +7,18 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppErika&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/ppErika/github-readme-stats)
 
 ## contact 🐯
+- **Erika's Gmail**
+    <img 
+        src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:hanerika11@gmail.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        
 - **Erika's Tech Blog**
     <a src="https://blog.naver.com/hanerika_11">
     <img 
         src="http://img.shields.io/badge/-Blog-489CD5?style=flat&logo=Storyblok&logoColor=white&link=https://blog.naver.com/hanerika_11"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-- **Erika's Gmail**
-    <img 
-        src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:hanerika11@gmail.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=F8640C&height=100&section=footer)
 
