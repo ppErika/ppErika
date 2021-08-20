@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F8640C&height=100&section=header&text=Erika%20Han&fontSize=50)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F8640C&title_bg=%23555555&icon=git.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233190D3&title_bg=%23555555&icon=git.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Front-end Developer 🐯
 - Android
@@ -17,7 +17,7 @@
 - Erika's Tech Blog
     <a href="https://blog.naver.com/hanerika_11">
     <img 
-        src="http://img.shields.io/badge/-Blog-489CD5?style=flat&logo=Storyblok&logoColor=white&link=https://blog.naver.com/hanerika_11"
+        src="http://img.shields.io/badge/-Blog-F8640?style=flat&logo=Storyblok&logoColor=white&link=https://blog.naver.com/hanerika_11"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
