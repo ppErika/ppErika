@@ -7,12 +7,14 @@
 ## contact 🐯
 - <a href="https://blog.naver.com/hanerika_11">
     <img 
-        src="http://img.shields.io/badge/-Blog-489CD5?style=flat&logo=Storyblok&link=https://blog.naver.com/hanerika_11"
+        src="http://img.shields.io/badge/-Blog-489CD5?style=flat&logo=Storyblok&logoColor=white&link=https://blog.naver.com/hanerika_11"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-- <img 
+- <a href="hanerika11@gmail.com">
+    <img 
         src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:hanerika11@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 <!--
 **ppErika/ppErika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
