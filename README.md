@@ -11,13 +11,13 @@
 ## contact 🐯
 - Erika's Mail
     <img 
-        src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:hanerika11@gmail.com"
+        src="https://img.shields.io/badge/Gmail-F8640C?style=flat&logo=Gmail&logoColor=white&link=mailto:hanerika11@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
         
 - Erika's Tech Blog
     <a href="https://blog.naver.com/hanerika_11">
     <img 
-        src="http://img.shields.io/badge/-Blog-F8640C?style=flat&logo=Storyblok&logoColor=white&link=https://blog.naver.com/hanerika_11"
+        src="http://img.shields.io/badge/-Blog-3190D3?style=flat&logo=Storyblok&logoColor=white&link=https://blog.naver.com/hanerika_11"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
