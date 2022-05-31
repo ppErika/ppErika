@@ -10,7 +10,6 @@
 
 ## Back-end Tech Stack 🐯
 - Node.js
-- spring
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppErika&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/ppErika/github-readme-stats)
 
