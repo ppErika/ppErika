@@ -2,14 +2,14 @@
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FppErika%2Fhit-counter&count_bg=%233190D3&title_bg=%23555555&icon=git.svg&icon_color=%23E2E2E2&title=hits&edge_flat=false"/></a>
 
-## Front-end Developer 🐯
+## Front-end Develop Stack 🐯
 - Android (Kotlin)
-- React-Native
-- React.js
 - Vue.js
+- React.js
+- React-Native
 
-## Back-end Developer 🐯
-- **Node.js**
+## Back-end Develop Stack 🐯
+- Node.js
 - spring
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppErika&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/ppErika/github-readme-stats)
