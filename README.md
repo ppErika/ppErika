@@ -14,7 +14,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppErika&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/ppErika/github-readme-stats)
 
-## contact 🐯
+## Contact Me 🐯
 - Erika's **Mail**
     <img 
         src="https://img.shields.io/badge/Gmail-F8640C?style=flat&logo=Gmail&logoColor=white&link=mailto:hanerika11@gmail.com"
