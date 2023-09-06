@@ -4,7 +4,6 @@
 
 ## Back-end Tech Stack 🐯
 - Node.js
-- Spring
 
 ## Front-end Tech Stack 🐯
 - Android (Kotlin)
