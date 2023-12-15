@@ -2,9 +2,9 @@
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FppErika%2Fhit-counter&count_bg=%233190D3&title_bg=%23555555&icon=git.svg&icon_color=%23E2E2E2&title=hits&edge_flat=false"/></a>
 
-<!--
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
--->
+
 
 ## App Stack 🐯
 ![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
